@@ -1,0 +1,3 @@
+CREATE TABLE IF NOT EXISTS `database_patch` (
+    `name` varchar(255) NOT NULL PRIMARY KEY
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
